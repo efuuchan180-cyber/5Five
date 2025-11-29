@@ -26,7 +26,7 @@ config: {
       nick: '𝐄𝐅Λ𝐓 乂 𝐀𝐍𝐓𝐈𝐊 ⚔️'
     };
 
-    const bold = 'https://motionbgs.com/media/5028/zenitsu-demon-slayer.960x540.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://courageous-white-ybzw6e4qnc-yvml3qfxpt.edgeone.dev/ezgif-3fbdd742de8b4f91.gif'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
